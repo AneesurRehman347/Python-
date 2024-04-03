@@ -8,14 +8,13 @@ This Repository contain the basic python code and this file show all basic git c
 
 
 
-![Untracked file command](/images/untracked file .png "Untracked files").
-![alt text](<images/initiliz empty git repo.png>)
-![alt text](<images/untracked file.png>)
-![alt text](<images/git tracked file.png>)
-![alt text](<images/git first commit.png>)
-![alt text](<images/git new branch.png>)
-![alt text](<images/total branch.png>)
-![alt text](<images/origin added.png>)
-![alt text](<images/after push status.png>)
+![initializing the empty repo](<images/initiliz empty git repo.png>)
+![Untracked files](<images/untracked file.png>)
+![Tracked files](<images/git tracked file.png>)
+![First commit](<images/git first commit.png>)
+![New Branch](<images/git new branch.png>)
+![Total Branches](<images/total branch.png>)
+![Origin add](<images/origin added.png>)
+![Push repository on github](<images/after push status.png>)
 
 
